@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when using the deprecated `ereg` functions in PHP. The `bug.php` file shows code that utilizes `ereg_replace` and may produce unexpected results.  The solution in `bugSolution.php` illustrates the correct way to handle string replacements using the recommended `preg_replace` function.
